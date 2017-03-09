@@ -10,8 +10,6 @@ import pkgPokerEnum.eHandStrength;
 import pkgPokerEnum.eRank;
 import pkgPokerEnum.eSuit;
 
-
-
 public class Hand {
 
 	private UUID HandID;
